@@ -1,0 +1,37 @@
+{
+  "monsters": [
+    {
+      "damage": "5",
+      "speed": "2",
+      "rate": "0.5",
+      "range": "2",
+      "name": "Slime",
+      "wptype": "melee",
+      "scanrange": "5.0f",
+      "attackrange": "1.0f",
+      "maxhp": "50"
+    },
+    {
+      "damage": "20",
+      "speed": "0",
+      "rate": "0.4",
+      "range": "2",
+      "name": "Crystal",
+      "wptype": "range",
+      "scanrange": "10.0f",
+      "attackrange": "7.0f",
+      "maxhp": "40"
+    },
+    {
+      "damage": "10",
+      "speed": "1",
+      "rate": "0.5",
+      "range": "2",
+      "name": "Boss1",
+      "wptype": "melee",
+      "scanrange": "30.0f",
+      "attackrange": "2.0f",
+      "maxhp": "1000"
+    }
+  ]
+}

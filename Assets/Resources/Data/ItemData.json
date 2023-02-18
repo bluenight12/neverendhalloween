@@ -1,0 +1,268 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "AttackSpeed",
+      "title": "주사기",
+      "level": "1",
+      "value": "1.1",
+      "phrase": "공격속도 1단계"
+    },
+    {
+      "id": "2",
+      "name": "AttackSpeed",
+      "title": "주사기",
+      "level": "2",
+      "value": "1.2",
+      "phrase": "공격속도 2단계"
+    },
+    {
+      "id": "3",
+      "name": "AttackSpeed",
+      "title": "주사기",
+      "level": "3",
+      "value": "1.3",
+      "phrase": "공격속도 3단계"
+    },
+    {
+      "id": "4",
+      "name": "AddDamage",
+      "title": "보이지 않는 손",
+      "level": "1",
+      "value": "5",
+      "phrase": "추가데미지 1단계"
+    },
+    {
+      "id": "5",
+      "name": "AddDamage",
+      "title": "보이지 않는 손",
+      "level": "2",
+      "value": "10",
+      "phrase": "추가데미지 2단계"
+    },
+    {
+      "id": "6",
+      "name": "AddDamage",
+      "title": "보이지 않는 손",
+      "level": "3",
+      "value": "15",
+      "phrase": "추가데미지 3단계"
+    },
+    {
+      "id": "7",
+      "name": "AttackRatio",
+      "title": "마늘",
+      "level": "1",
+      "value": "5",
+      "phrase": "공격력 증가 1단계"
+    },
+    {
+      "id": "8",
+      "name": "AttackRatio",
+      "title": "마늘",
+      "level": "2",
+      "value": "10",
+      "phrase": "공격력 증가 2단계"
+    },
+    {
+      "id": "9",
+      "name": "AttackRatio",
+      "title": "마늘",
+      "level": "3",
+      "value": "15",
+      "phrase": "공격력 증가 3단계"
+    },
+    {
+      "id": "10",
+      "name": "CriticalPer",
+      "title": "렌즈",
+      "level": "1",
+      "value": "5",
+      "phrase": "크리티컬 확률 증가 1단계"
+    },
+    {
+      "id": "11",
+      "name": "CriticalPer",
+      "title": "렌즈",
+      "level": "2",
+      "value": "10",
+      "phrase": "크리티컬 확률 증가 2단계"
+    },
+    {
+      "id": "12",
+      "name": "CriticalPer",
+      "title": "렌즈",
+      "level": "3",
+      "value": "15",
+      "phrase": "크리티컬 확률 증가 3단계"
+    },
+    {
+      "id": "13",
+      "name": "LifeSteal",
+      "title": "빨대",
+      "level": "1",
+      "value": "5",
+      "phrase": "생명력 흡수 1단계"
+    },
+    {
+      "id": "14",
+      "name": "LifeSteal",
+      "title": "빨대",
+      "level": "2",
+      "value": "10",
+      "phrase": "생명력 흡수 2단계"
+    },
+    {
+      "id": "15",
+      "name": "LifeSteal",
+      "title": "빨대",
+      "level": "3",
+      "value": "15",
+      "phrase": "생명력 흡수 3단계"
+    },
+    {
+      "id": "16",
+      "name": "PoisonPer",
+      "title": "방사능 물질",
+      "level": "1",
+      "value": "5",
+      "phrase": "맹독 확률 증가 1단계"
+    },
+    {
+      "id": "17",
+      "name": "PoisonPer",
+      "title": "방사능 물질",
+      "level": "2",
+      "value": "10",
+      "phrase": "맹독 확률 증가 2단계"
+    },
+    {
+      "id": "18",
+      "name": "PoisonPer",
+      "title": "방사능 물질",
+      "level": "3",
+      "value": "15",
+      "phrase": "맹독 확률 증가 3단계"
+    },
+    {
+      "id": "19",
+      "name": "SkillRatio",
+      "title": "딸기 우유",
+      "level": "1",
+      "value": "5",
+      "phrase": "스킬 데미지 증가 1단계"
+    },
+    {
+      "id": "20",
+      "name": "SkillRatio",
+      "title": "딸기 우유",
+      "level": "2",
+      "value": "10",
+      "phrase": "스킬 데미지 증가 2단계"
+    },
+    {
+      "id": "21",
+      "name": "SkillRatio",
+      "title": "딸기 우유",
+      "level": "3",
+      "value": "15",
+      "phrase": "스킬 데미지 증가 3단계"
+    },
+    {
+      "id": "22",
+      "name": "SkillSpeed",
+      "title": "스톱 워치",
+      "level": "1",
+      "value": "5",
+      "phrase": "스킬 데미지 증가 1단계"
+    },
+    {
+      "id": "23",
+      "name": "SkillSpeed",
+      "title": "스톱 워치",
+      "level": "2",
+      "value": "10",
+      "phrase": "스킬 데미지 증가 2단계"
+    },
+    {
+      "id": "24",
+      "name": "SkillSpeed",
+      "title": "스톱 워치",
+      "level": "3",
+      "value": "15",
+      "phrase": "스킬 데미지 증가 3단계"
+    },
+    {
+      "id": "25",
+      "name": "CriticalDamage",
+      "title": "손톱",
+      "level": "1",
+      "value": "0.05",
+      "phrase": "크리티컬 데미지 증가 1단계"
+    },
+    {
+      "id": "26",
+      "name": "CriticalDamage",
+      "title": "손톱",
+      "level": "2",
+      "value": "0.1",
+      "phrase": "크리티컬 데미지 증가 2단계"
+    },
+    {
+      "id": "27",
+      "name": "CriticalDamage",
+      "title": "손톱",
+      "level": "3",
+      "value": "0.15",
+      "phrase": "크리티컬 데미지 증가 3단계"
+    },
+    {
+      "id": "28",
+      "name": "HealthRegen",
+      "title": "에너지 드링크",
+      "level": "1",
+      "value": "1",
+      "phrase": "체력 리젠 증가 1단계"
+    },
+    {
+      "id": "29",
+      "name": "HealthRegen",
+      "title": "에너지 드링크",
+      "level": "2",
+      "value": "2",
+      "phrase": "체력 리젠 증가 2단계"
+    },
+    {
+      "id": "30",
+      "name": "HealthRegen",
+      "title": "에너지 드링크",
+      "level": "3",
+      "value": "3",
+      "phrase": "체력 리젠 증가 3단계"
+    },
+    {
+      "id": "31",
+      "name": "Defense",
+      "title": "부적",
+      "level": "1",
+      "value": "1",
+      "phrase": "방어력 증가 1단계"
+    },
+    {
+      "id": "32",
+      "name": "Defense",
+      "title": "부적",
+      "level": "2",
+      "value": "2",
+      "phrase": "방어력 증가 2단계"
+    },
+    {
+      "id": "33",
+      "name": "Defense",
+      "title": "부적",
+      "level": "3",
+      "value": "3",
+      "phrase": "방어력 증가 3단계"
+    }
+  ]
+}

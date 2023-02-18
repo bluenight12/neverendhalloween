@@ -1,0 +1,28 @@
+{
+  "weapons": [
+    {
+      "damage": "10",
+      "speed": "1",
+      "rate": "3",
+      "range": "1.5",
+      "name": "Punch",
+      "wptype": "melee"
+    },
+    {
+      "damage": "15",
+      "speed": "1",
+      "rate": "2",
+      "range": "1",
+      "name": "Cat",
+      "wptype": "melee"
+    },
+    {
+      "damage": "15",
+      "speed": "500",
+      "rate": "2",
+      "range": "2",
+      "name": "Water",
+      "wptype": "range"
+    }
+  ]
+}

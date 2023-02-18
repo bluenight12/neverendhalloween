@@ -1,0 +1,24 @@
+{
+  "quests": [
+    {
+      "id": "0",
+      "phrase": "슬라임을 10마리 해치우자",
+      "name": "Slime",
+      "amount": "0",
+      "goal": "10",
+      "reward": "20",
+      "status": "0",
+      "isClear": "false"
+    },
+    {
+      "id": "1",
+      "phrase": "크리스탈을 5마리 해치우자",
+      "name": "Crystal",
+      "amount": "0",
+      "goal": "5",
+      "reward": "20",
+      "status": "0",
+      "isClear": "false"
+    }
+  ]
+}

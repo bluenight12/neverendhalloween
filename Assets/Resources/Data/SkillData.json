@@ -1,0 +1,34 @@
+{
+  "skills": [
+    {
+      "name": "PunchA",
+      "damage": "40",
+      "coolTime": "4"
+    },
+    {
+      "name": "PunchS",
+      "damage": "60",
+      "coolTime": "6"
+    },
+    {
+      "name": "WaterA",
+      "damage": "30",
+      "coolTime": "4"
+    },
+    {
+      "name": "WaterS",
+      "damage": "10",
+      "coolTime": "14"
+    },
+    {
+      "name": "CatA",
+      "damage": "10",
+      "coolTime": "4"
+    },
+    {
+      "name": "CatS",
+      "damage": "50",
+      "coolTime": "10"
+    }
+  ]
+}
