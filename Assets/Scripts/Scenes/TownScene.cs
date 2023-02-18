@@ -10,6 +10,7 @@ public class TownScene : BaseScene
     {
         base.Init();
         SceneType = Define.Scene.Town;
+        Managers.Game.MonsterClear();
         ResetPlayer();
         UI_Fade.FadeIn();
         Managers.UI.ShowSceneUI<UI_Status>();
